@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaCutWidth", "ProblemaCutWidth.csproj", "{2ABDF52D-E8CE-4EE4-8120-6BD8D8EB3034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ABDF52D-E8CE-4EE4-8120-6BD8D8EB3034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABDF52D-E8CE-4EE4-8120-6BD8D8EB3034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABDF52D-E8CE-4EE4-8120-6BD8D8EB3034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABDF52D-E8CE-4EE4-8120-6BD8D8EB3034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F595E6B-ACC1-4986-9F73-DA157AF9AE59}
+	EndGlobalSection
+EndGlobal

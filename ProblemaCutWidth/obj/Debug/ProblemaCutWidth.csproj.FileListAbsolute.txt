@@ -1,0 +1,20 @@
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\Datos\datos1.txt
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\ProblemaCutWidth.exe.config
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\ProblemaCutWidth.exe
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\ProblemaCutWidth.pdb
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.csproj.AssemblyReference.cache
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.csproj.CoreCompileInputs.cache
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.exe
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.pdb
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\Datos\datos2.txt
+C:\Users\ANNOUS SUONNA\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\Datos\datos3.txt
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\Datos\datos1.txt
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\Datos\datos3.txt
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\Datos\datos2.txt
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\ProblemaCutWidth.exe.config
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\ProblemaCutWidth.exe
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\bin\Debug\ProblemaCutWidth.pdb
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.csproj.AssemblyReference.cache
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.csproj.CoreCompileInputs.cache
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.exe
+C:\Users\Tics\Desktop\CutWidth Problem\ProblemaCutWidth\obj\Debug\ProblemaCutWidth.pdb
